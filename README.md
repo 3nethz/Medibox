@@ -22,6 +22,9 @@ Medibox is a smart medication reminder system built using an ESP32 microcontroll
 
 3. **Wi-Fi Configuration**:
    - Ensure the device is connected to a Wi-Fi network for time synchronization.
+![image](https://github.com/user-attachments/assets/0beca7b4-e5d2-4ddf-bfd8-0927920ab400)
+
+
 
 ## Usage
 
