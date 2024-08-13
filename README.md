@@ -11,6 +11,8 @@ Medibox is a smart medication reminder system built using an ESP32 microcontroll
 - **Buzzer and LED Alerts**: Audible and visual notifications to ensure alarms and warnings are noticed.
 - **User-Friendly Menu Navigation**: Easy-to-use buttons allow for navigating the menu, setting alarms, and configuring time zones.
 
+![image](https://github.com/user-attachments/assets/0beca7b4-e5d2-4ddf-bfd8-0927920ab400)
+
 ## Getting Started
 
 1. **Hardware Setup**: 
@@ -22,7 +24,7 @@ Medibox is a smart medication reminder system built using an ESP32 microcontroll
 
 3. **Wi-Fi Configuration**:
    - Ensure the device is connected to a Wi-Fi network for time synchronization.
-![image](https://github.com/user-attachments/assets/0beca7b4-e5d2-4ddf-bfd8-0927920ab400)
+
 
 
 
